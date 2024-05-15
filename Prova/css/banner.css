@@ -1,0 +1,22 @@
+.banner{
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-image: url(/img/space.jpg)
+}
+
+.caixaTextobanner{
+    width: 30px;
+    display: flex;
+    justify-content: center;
+}
+.textoBanner{
+    color: rgb(255, 255, 255);
+    font-size: 5cap;
+    text-align: center;
+}
+.botao{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
